@@ -1,2 +1,2 @@
-gg.print('ello')
+gg.alert('ello')
 
