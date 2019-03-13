@@ -1,1 +1,1 @@
-gg.print("hello")
+gg.print('ello)
